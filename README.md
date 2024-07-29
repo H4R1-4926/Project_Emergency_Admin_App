@@ -1,3 +1,3 @@
-# emergency_admin_app
+# Emergency Admin App
 
-A new Flutter project.
+Admin app of emergency app.
